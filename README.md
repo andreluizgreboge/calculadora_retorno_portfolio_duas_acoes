@@ -5,3 +5,12 @@ Calculadora de retornos de carteiras com duas ações utilizando Yahoo Finance. 
 Uso funções de Input, Listas, Loops e Library Yahoo Finance
 
 Não se trata de recomendação, é apenas um treino de programação.
+
+
+<b>Redes Sociais / Social Midia:</b>
+
+LinkedIn = https://www.linkedin.com/in/andregreboge/
+
+Twitter = https://twitter.com/AGreboge
+
+Instagram = https://www.instagram.com/andregreboge/
